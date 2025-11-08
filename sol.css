@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+}
+
+h1{
+    text-transform: uppercase;
+}
+
+.poster{
+    margin-top: 100%;
+    color:whitesmoke;
+    text-align: center;
+
+}
+
+.myi{
+    border: 5px solid white ;
+    width: 100%;
+}
